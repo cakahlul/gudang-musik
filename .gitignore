@@ -1,0 +1,10 @@
+#Built
+/__build__/
+/__server_build__/
+/node_modules/
+/typings/
+/tsd_typings/
+/dist/
+/dist-server/
+/compiled/
+/coverage/
